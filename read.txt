@@ -1,0 +1,4 @@
+- npm init -y
+- npm install mocha chai axios typescript @types/mocha @types/chai ts-node --save-dev
+- npx tsc --init or tsc --init
+- run "npm test"
